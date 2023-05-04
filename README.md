@@ -1,5 +1,6 @@
 ## 4 Leg Walking Robot 
 
+### Code
 In this repository the code used to build and program a Four-Legged Walking Robot
 which is able to walk, change direction when presented with an obstacle, and compensate for its inclination, is stored.
 
@@ -9,4 +10,10 @@ Two projects were submitted:
 
 - waslkingv2: contains the code related to the walking and turning when object is detected.
 
+### Report 
 Along with the code, there is a pdf, which is the respective report, explaining the steps taken in the project making.
+
+### Authors
+The project was developed by:
+- Bruno Silva 
+- Sara Carvalho
